@@ -1,0 +1,2 @@
+# Optional: needed only to rebuild the original synthesized soundtrack.
+numpy>=1.24,<3
